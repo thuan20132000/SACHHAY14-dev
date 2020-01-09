@@ -1,0 +1,16 @@
+/* // dang nhap */
+.fdangnhap-wrapper,.fdangnhap-wrapper h1{
+ width:50%;
+ margin:auto;
+}
+.fdangnhap-wrapper form .btn{
+   text-align: center;
+    margin-left:35%;
+}
+
+#nav-form-admin button{
+    margin-right:50px;
+}
+#nav-form-admin .dropdown-menu.show{
+    min-width: 6rem;
+}
